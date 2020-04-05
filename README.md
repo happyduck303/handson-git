@@ -69,3 +69,8 @@ view different between index and repository
 > Nasi Goreng
 > mie goreng
 
+# Git Merge from branch 'sandi-dev' to branch 'master'
+>  git merge sandi-dev
+
+# Change branch from branch 'master' to branch 'sandi-dev'
+> git checkout sandi-dev
