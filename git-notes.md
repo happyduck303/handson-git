@@ -6,18 +6,18 @@
 
 # Working Directory --> Index --> Repository
 
-#Moving data to the Right
-##1. Moving data from Working Directory to Index
+# Moving data to the Right
+## 1. Moving data from Working Directory to Index
 git add filename  
 git diff -> view different between working dir and index  
 git status  
 
-##2. Moving data from index to repostory
+## 2. Moving data from index to repostory
 git commit -m "Commit message"  
 git diff --cached --> view different between index and repository  
 git status  
 
-##3. Moving data from local repository to remote repository
+## 3. Moving data from local repository to remote repository
 git push  
 
 # View branch
