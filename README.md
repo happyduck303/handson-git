@@ -80,3 +80,10 @@ view different between index and repository
 
 # Git tags 'create tag'
 > git tag rebase
+
+# Git fetch
+> git fetch
+
+# Git 'pull' == git 'fetch' and git 'merge'
+> git pull
+
