@@ -87,3 +87,6 @@ view different between index and repository
 # Git 'pull' == git 'fetch' and git 'merge'
 > git pull
 
+# Generate SSH Key
+> ssh-keygent
+
