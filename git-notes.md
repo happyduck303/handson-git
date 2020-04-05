@@ -1,4 +1,4 @@
-4 Git Storage
+# 4 Git Storage
 1. Working directory
 2. Index
 3. Repository
