@@ -89,4 +89,4 @@ view different between index and repository
 
 # Generate SSH Key
 > ssh-keygent
-
+**Use passphrase to secure private key**
