@@ -77,3 +77,6 @@ view different between index and repository
 
 # Git Rebase in branch 'sandi-dev' from branch 'master'
 > git rebase master
+
+# Git tags 'create tag'
+> git tag rebase
