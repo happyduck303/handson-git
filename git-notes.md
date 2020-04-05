@@ -38,3 +38,6 @@ git checkout lisa
 2. git add menu.md
 3. git add menu.txt
 
+# Rename file from menu.md to menu.txt using git mv
+1. git mv menu.md menu.txt
+
