@@ -74,3 +74,6 @@ view different between index and repository
 
 # Change branch from branch 'master' to branch 'sandi-dev'
 > git checkout sandi-dev
+
+# Git Rebase in branch 'sandi-dev' from branch 'master'
+> git rebase master
