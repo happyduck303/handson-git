@@ -88,5 +88,18 @@ view different between index and repository
 > git pull
 
 # Generate SSH Key
-> ssh-keygent
+> ssh-keygent  
 **Use passphrase to secure private key**
+
+# Git reset
+## git reset --hard
+Copy from Repository to index and working directory
+> git reset --hard 'commit hash checkpoint'
+> git reset --hard b88df3218af2d87a5120f4544f70e02e2ee249a0
+
+## git reset --mix (default)
+Copy from repository to index
+
+## git reset --soft
+Left it in repository
+
