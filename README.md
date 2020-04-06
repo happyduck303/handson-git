@@ -103,3 +103,14 @@ Copy from repository to index
 ## git reset --soft
 Left it in repository
 
+## Git Stash (the 4th storage of git)
+> git stash  
+**Stash like clipboard of your project**  
+**Default stash only save tracked file (file in index storage) use --include-untracked to save all file**
+> git stash --include-untracked  
+> git stash list  
+**Check git stash list**
+> git stash apply  
+**Restore file in stash to working directory or Index storage**
+> git stash clear  
+**Clear/remove file in stash storage**
