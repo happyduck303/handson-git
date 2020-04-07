@@ -96,6 +96,10 @@ view different between index and repository
 Copy from Repository to index and working directory
 > git reset --hard 'commit hash checkpoint'
 > git reset --hard b88df3218af2d87a5120f4544f70e02e2ee249a0
+> git reset HEAD README.md  
+**reset only menu file**
+> git checkout HEAD README.md
+**restore to last commit**
 
 ## git reset --mix (default)
 Copy from repository to index
@@ -114,3 +118,14 @@ Left it in repository
 **Restore file in stash to working directory or Index storage**
 > git stash clear  
 **Clear/remove file in stash storage**
+
+# git log
+> git log --graph --decorate --oneline
+
+# git show
+> git show HEAD
+> git show HEAD^
+> git show HEAD~2
+
+# git blame to view history
+> git blame
